@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 from __future__ import absolute_import, unicode_literals
-from django.core.management import execute_from_command_line
+# from django.core.management import execute_from_command_line
 
 import os
 import sys
